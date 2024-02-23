@@ -1,0 +1,6 @@
+    Bool: Weak against conditional statements, but strong against variables.
+    Strong against Boolean values and integers, but weak against variables.
+    Variables: Strong against strings, but weak against integers.
+    Strings: Strong against conditional statements, weak against boolean values.
+    Integers: Strong against integers and strings, but weak against boolean values.
+    Definitions: Strong against everything, but weak against other definitions.

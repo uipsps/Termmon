@@ -1,0 +1,9 @@
+Bool Type
+Int Type
+Var Type/Normal Type
+Str Type
+Def Type/legendery Type
+
+
+
+

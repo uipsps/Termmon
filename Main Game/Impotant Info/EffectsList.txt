@@ -1,0 +1,9 @@
+    none
+    HpSteal
+    both-players-hp=0
+    Sheild
+    stat steal
+    Tell The Player the Move About To Be played
+    counfused
+    attack2times
+    hp_set_too_max
